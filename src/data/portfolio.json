@@ -1,0 +1,86 @@
+{
+  "personal": {
+    "name": "Tayyab Ahmer",
+    "title": "Backend Developer",
+    "location": "Gujrat, Pakistan",
+    "phone": "+92-3161208310",
+    "email": "tayyabahmer038@gmail.com",
+    "linkedin": "https://linkedin.com/in/tayyab-ahmer",
+    "github": "https://github.com/tayyab-ahmer",
+    "summary": "Detail-oriented Backend Developer with hands-on experience building scalable and secure systems across fintech, e-commerce, and automation domains. Proficient in NestJS, Node.js, TypeORM, and PostgreSQL, with a strong emphasis on RESTful APIs, JWT-based authentication, and database optimization."
+  },
+  "experience": [
+    {
+      "title": "Backend Developer",
+      "company": "Codek Technologies",
+      "location": "Gujrat",
+      "duration": "Nov 2024 - March 2025",
+      "responsibilities": [
+        "Developed and maintained scalable backend solutions using NestJS, Node.js, TypeORM, and PostgreSQL for various client applications",
+        "Designed and fine-tuned RESTful APIs, enhancing performance and reducing database load",
+        "Implemented secure authentication mechanisms and RBAC (Role-Based Access Control) using JWT",
+        "Integrated third-party APIs and improved data operations through optimized queries"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Gujrat (UOG)",
+      "duration": "Nov 2021 - May 2025",
+      "location": "Gujrat, Pakistan"
+    }
+  ],
+  "skills": {
+    "backend": [
+      "Node.js",
+      "NestJS",
+      "Socket.io",
+      "RESTful APIs",
+      "JWT Authentication",
+      "Role-Based Access Control (RBAC)",
+      "TypeORM",
+      "API Integrations",
+      "Web Scraping (Puppeteer)",
+      "Docker"
+    ],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "cloud": ["Railway", "Cloudinary"],
+    "tools": ["Git", "GitHub", "Gitflow", "Postman"]
+  },
+  "projects": [
+    {
+      "name": "Transaction Monitoring System",
+      "description": "Engineered a backend system to detect and flag suspicious transactions for review. Integrated an external API to verify sanctioned users, triggering alerts and auto-opening cases. Secured endpoints using JWT authentication and role-based access control.",
+      "technologies": ["NestJS", "PostgreSQL", "JWT", "RBAC", "API Integration"]
+    },
+    {
+      "name": "Vaulex: Wallet Management System",
+      "description": "Built a digital wallet platform allowing users to transfer funds between internal and external accounts. Designed an admin dashboard to monitor company users and track total wallet balances. Ensured secure and reliable transaction handling with real-time balance updates.",
+      "technologies": [
+        "Node.js",
+        "PostgreSQL",
+        "Socket.io",
+        "JWT",
+        "Admin Dashboard"
+      ]
+    },
+    {
+      "name": "E-commerce Sales Product Scraper",
+      "description": "Created a web scraper to extract discounted product data from multiple e-commerce sites. Utilized Puppeteer for effective scraping and structured data storage. Enhanced logic to support pagination and dynamic content rendering.",
+      "technologies": [
+        "Node.js",
+        "Puppeteer",
+        "Web Scraping",
+        "Data Processing"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "NDG Linux Unhatched Course",
+      "issuer": "Cisco Networking Academy",
+      "link": "#"
+    }
+  ]
+}

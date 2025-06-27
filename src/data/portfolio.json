@@ -55,6 +55,18 @@
       "technologies": ["NestJS", "PostgreSQL", "JWT", "RBAC", "API Integration"]
     },
     {
+      "name": "Leadflow CRM",
+      "description": "Leadflow CRM is a complete customer relationship management system built as a Final Year Project. It features task and deal tracking, customer records, analytics dashboards, PDF report generation, and real-time chat using Socket.io. The stack includes Next.js for the frontend, NestJS for the backend, PostgreSQL for storage, and Tailwind CSS for responsive styling — all written in TypeScript.",
+      "technologies": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "Socket.io",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    },
+    {
       "name": "Vaulex: Wallet Management System",
       "description": "Built a digital wallet platform allowing users to transfer funds between internal and external accounts. Designed an admin dashboard to monitor company users and track total wallet balances. Ensured secure and reliable transaction handling with real-time balance updates.",
       "technologies": [

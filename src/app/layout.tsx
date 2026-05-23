@@ -14,16 +14,16 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tayyab Ahmer - Backend Developer",
+  title: "Tayyab Ahmer | Full Stack Engineer",
   description:
-    "Portfolio of Tayyab Ahmer, a skilled Backend Developer specializing in NestJS, Node.js, and scalable system architecture.",
+    "Portfolio of Tayyab Ahmer, a full stack engineer building fintech, automation, and operational product systems with Next.js, NestJS, PostgreSQL, and AI integrations.",
   keywords:
-    "Backend Developer, NestJS, Node.js, PostgreSQL, API Development, JWT Authentication",
+    "Tayyab Ahmer, Full Stack Engineer, Next.js, NestJS, PostgreSQL, Prisma, Supabase, AI integrations, fintech developer",
   authors: [{ name: "Tayyab Ahmer" }],
   openGraph: {
-    title: "Tayyab Ahmer - Backend Developer",
+    title: "Tayyab Ahmer | Full Stack Engineer",
     description:
-      "Portfolio of Tayyab Ahmer, a skilled Backend Developer specializing in NestJS, Node.js, and scalable system architecture.",
+      "Full stack engineer shipping fintech, automation, and operational products with strong backend architecture and polished product delivery.",
     type: "website",
   },
 };
